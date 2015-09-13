@@ -24,5 +24,5 @@ public class Calculator
 		System.out.printf("The multiplication is %f\n", multiply);
 		System.out.printf("The division is %f\n", divide);
 	}
-
+// Good job, Sơn!
 }
